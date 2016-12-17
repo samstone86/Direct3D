@@ -1,0 +1,24 @@
+﻿Der Buildvorgang wurde am 13.12.2016 09:54:23 gestartet.
+     1>Projekt "T:\Temp\Direct3DTest_Unicode\Direct3DTest\Direct3DTest.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Direct3DTest.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Direct3DTest.cpp Direct3DTestDlg.cpp
+         Direct3DTestDlg.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Code wird generiert...
+         Überspringen... (keine relevanten Änderungen gefunden)
+         Direct3DTest.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"T:\Temp\Direct3DTest_Unicode\Debug\Direct3DTest.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib winmm.lib dinput8.lib dxguid.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"T:\Temp\Direct3DTest_Unicode\Debug\Direct3DTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"T:\Temp\Direct3DTest_Unicode\Debug\Direct3DTest.lib" /MACHINE:X86 /SAFESEH Debug\Direct3DTest.res
+         Debug\Direct3D.obj
+         Debug\Direct3DLight.obj
+         Debug\Direct3DObject.obj
+         Debug\Direct3DTest.obj
+         Debug\Direct3DTestDlg.obj
+         Debug\DirectInput.obj
+         Debug\stdafx.obj
+         Direct3DTest.vcxproj -> T:\Temp\Direct3DTest_Unicode\Debug\Direct3DTest.exe
+     1>Die Erstellung des Projekts "T:\Temp\Direct3DTest_Unicode\Direct3DTest\Direct3DTest.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.48
